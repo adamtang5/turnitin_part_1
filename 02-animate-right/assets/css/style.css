@@ -5,6 +5,12 @@
     background-color: teal;
 }
 
+#square {
+    height: 70px;
+    width: 70px;
+    background-color: aqua;
+}
+
 .actions {
     margin: 10px 0;
 }

@@ -1,7 +1,10 @@
 import { animateRight } from './manipulate.js';
 
 window.onload = () => {
-    const moveButton = document.getElementById('move');
+    const moveCircleButton = document.getElementById('move-circle');
     const circle = document.getElementById('circle');
-    moveButton.addEventListener('click', () => animateRight(circle));
+    moveCircleButton.addEventListener('click', () => animateRight(circle));
+    const moveSquareButton = document.getElementById('move-square');
+    const square = document.getElementById('square');
+    moveSquareButton.addEventListener('click', () => animateRight(square));
 };
