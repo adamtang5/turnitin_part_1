@@ -7,8 +7,13 @@ moves the element `el` to the right by 100px over a duration of 1 second.
 
 Run `node app.js` to start the application. Navigate to [localhost:5000](http://localhost:5000) in your browser. There are two elements: `#circle` and `#square`.
 Clicking the `Move Circle` button will move the Circle to the right by 100px
-with a delay of 1 second. Likewise, clicking the `Move Square` button will move
-the Square to the right by 100px with a delay of 1 second.
+with a delay of 1 second.
+
+<img src="img/move-circle-cut.gif" alt="Move Circle" />
+
+Likewise, clicking the `Move Square` button will move the Square to the right by 100px with a delay of 1 second.
+
+<img src="img/move-square-cut.gif" alt="Move Square" />
 
 ## `animateRight` Function
 
