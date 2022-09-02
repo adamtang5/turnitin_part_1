@@ -9,11 +9,11 @@ Run `node app.js` to start the application. Navigate to [localhost:5000](http://
 Clicking the `Move Circle` button will move the Circle to the right by 100px
 with a delay of 1 second.
 
-<img src="img/move-circle-cut.gif" width="800px" alt="Move Circle" />
+<img src="img/move-circle-cut-2.gif" width="800px" alt="Move Circle" />
 
 Likewise, clicking the `Move Square` button will move the Square to the right by 100px with a delay of 1 second.
 
-<img src="img/move-square-cut.gif" width="800px" alt="Move Square" />
+<img src="img/move-square-cut-2.gif" width="800px" alt="Move Square" />
 
 ## `animateRight` Function
 
