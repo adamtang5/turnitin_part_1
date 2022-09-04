@@ -14,3 +14,9 @@ function removeDuplicates(xs) {
     xs.forEach(el => set.add(el));
     return Array.from(set);
 }
+
+try {
+    module.exports = removeDuplicates;
+} catch {
+    module.exports = null;
+}
